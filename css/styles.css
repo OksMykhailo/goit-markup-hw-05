@@ -408,15 +408,13 @@ ul {
     justify-content: center;
     align-items: center;
     background-color:  rgba(47, 48, 58, 0.8);
-}
-
-.work-text p {
     margin: 0;
     font-weight: 700;
     text-transform: uppercase;
     color: var(--primary-white-color);
-    
 }
+
+
 
 
 .img-list {
